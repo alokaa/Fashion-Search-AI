@@ -1,2 +1,4 @@
 chroma/
 chromadb_data/
+*.drawio
+*.docx
